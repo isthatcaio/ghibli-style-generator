@@ -1,0 +1,1 @@
+# ghibli-style-generator
